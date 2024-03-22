@@ -1,0 +1,89 @@
+body {
+    background-color: aqua;
+    margin: 0;
+    height: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+#txt {
+    text-align: center;
+    margin-top: 4%;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+#welcome {
+    font-size: 37px;
+}
+
+#linko {
+    text-decoration: none;
+    color: black;
+}
+
+#kolch {
+    width: 95%;
+    margin: auto;
+    margin-top: 3%;
+    border: double;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: white;
+    background-color: black;
+}
+
+tbody,
+tr,
+td {
+    background-color: #f2f2f2;
+    color: black
+}
+
+#forme {
+    width: 50%;
+    display: flow;
+    margin: auto;
+    margin-top: 2%;
+}
+
+#khdar {
+    color: rgb(14, 230, 14);
+}
+
+#sfar {
+    color: yellowgreen;
+}
+
+#hmar {
+    color: red;
+}
+
+#botno {
+    text-align: center;
+}
